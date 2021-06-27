@@ -1,3 +1,9 @@
+---
+
+layout: page
+title: Jo Law
+---
+
 ![image of me](https://github.com/jolaw233/jolaw233.github.io/blob/main/img/profile-pic.jpg)
 ## Hello!
 
