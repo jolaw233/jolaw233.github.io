@@ -1,10 +1,4 @@
----
-
-layout: page
-title: Jo Law
----
-
-![image of me](https://github.com/jolaw233/jolaw233.github.io/blob/main/img/profile-pic.jpg)
+![image of me](/img/profile-pic.jpg)
 ## Hello!
 
 I am a digital designer and newbie web developer with big aspirations! I specialise in visual design and accessibility for online courses, as well as print and web design for STEM industry and SMEs.
